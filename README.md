@@ -14,18 +14,15 @@ I am Sethumadhavan V, a passionate Data Analyst with a focus on secure data shar
 ### 🎓 Education
 
 - **M. Tech Integrated Software Engineering**  
-  Vellore Institute of Technology, Vellore  
-  **CGPA:** 7.53  
+  Vellore Institute of Technology, Vellore   
   2019 – Present
 
 - **Higher Secondary Education**  
-  Sri Ayyan Vidyashram Higher Sec School  
-  **Percentage:** 68.33%  
+  Sri Ayyan Vidyashram Higher Sec School   
   2018 – 2019
 
 - **Secondary School Leaving Certificate**  
   Sri Ayyan Vidyashram Higher Sec School  
-  **Percentage:** 80.4%  
   2016 – 2017
 
 ---
