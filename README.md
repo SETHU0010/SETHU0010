@@ -7,7 +7,7 @@
 
 ### 👋 Welcome to my GitHub Profile!
 
-I am Sethumadhavan V, a passionate Software Engineer with a focus on secure data sharing and cloud computing security. I am eager to explore new challenges and contribute to the development of innovative solutions.
+I am Sethumadhavan V, a passionate Data Analyst with a focus on secure data sharing, cloud computing security, and data visualization. I am eager to explore new challenges and contribute to the development of innovative solutions.
 
 ---
 
@@ -33,7 +33,7 @@ I am Sethumadhavan V, a passionate Software Engineer with a focus on secure data
 ### 💼 Skills
 
 - **Programming Languages:** Python, SQL
-- **Tools and Technologies:** Power BI, CRM, Microsoft Tools, MySQL
+- **Tools and Technologies:** Power BI, CRM, Microsoft Tools, MySQL, Streamlit, Plotly
 - **Languages:** Tamil, English
 
 ---
@@ -83,11 +83,17 @@ I am Sethumadhavan V, a passionate Software Engineer with a focus on secure data
 
 ### 📂 Projects
 
-#### Secure Data Sharing of Personal Health Records in Cloud Using AES Algorithm
-Experienced in secure data sharing and encryption techniques, adept at implementing AES algorithm for protecting personal health records in cloud environments. Skilled in developing efficient algorithms for keyword-based searching and data sharing operations, with a focus on maintaining privacy and security. Proven track record of delivering robust solutions for secure data management.
+#### Secure Data Sharing of Personal Health Records in MySQL Using AES Algorithm
+Experienced in secure data sharing and encryption techniques, adept at implementing the AES algorithm for protecting personal health records in MySQL environments. Skilled in developing efficient algorithms for keyword-based searching and data sharing operations, with a focus on maintaining privacy and security. Proven track record of delivering robust solutions for secure data management.
 
-#### Privacy Preserving Data Security Model in Cloud using AES Algorithm
+#### Privacy Preserving Data Security Model using AES Algorithm
 Experienced professional with expertise in cloud computing security and data protection. Skilled in implementing cryptographic algorithms and BYOEK platforms to ensure secure storage and access control of sensitive data in the cloud. Proven track record of developing and evaluating security models to address privacy concerns and mitigate potential risks.
+
+#### YouTube Data Harvesting and Warehousing using SQL and Streamlit
+Developed a project for harvesting and warehousing YouTube data using SQL and Streamlit, focusing on efficient data collection, storage, and visualization techniques to provide insightful analytics.
+
+#### PhonePe Pulse Data Visualization and Exploration - A User-Friendly Tool Using Streamlit and Plotly
+Created a user-friendly tool for visualizing and exploring PhonePe Pulse data using Streamlit and Plotly, offering interactive visualizations and comprehensive data analysis features.
 
 ---
 
