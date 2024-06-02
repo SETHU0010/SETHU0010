@@ -1,12 +1,97 @@
-<h1 align="center">Hi 👋, I'm Sethumadhavan V</h1>
-<h3 align="center">Software Engineer</h3>
+## Sethumadhavan V
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sethumadhavan-v-b84890257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sethumadhavan-v-b84890257/" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sethumadhavan-v/)
+[![Email](https://img.shields.io/badge/Email-sethumadhavanvelu2002%40gmail.com-red)](mailto:sethumadhavanvelu2002@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethu0010&show_icons=true&locale=en&layout=compact" alt="sethu0010" /></p>
+### 👋 Welcome to my GitHub Profile!
+
+I am Sethumadhavan V, a passionate Software Engineer with a focus on secure data sharing and cloud computing security. I am eager to explore new challenges and contribute to the development of innovative solutions.
+
+---
+
+### 🎓 Education
+
+- **M. Tech Integrated Software Engineering**  
+  Vellore Institute of Technology, Vellore  
+  **CGPA:** 7.53  
+  2019 – Present
+
+- **Higher Secondary Education**  
+  Sri Ayyan Vidyashram Higher Sec School  
+  **Percentage:** 68.33%  
+  2018 – 2019
+
+- **Secondary School Leaving Certificate**  
+  Sri Ayyan Vidyashram Higher Sec School  
+  **Percentage:** 80.4%  
+  2016 – 2017
+
+---
+
+### 💼 Skills
+
+- **Programming Languages:** Python, SQL
+- **Tools and Technologies:** Power BI, CRM, Microsoft Tools, MySQL
+- **Languages:** Tamil, English
+
+---
+
+### 🏆 Certifications
+
+- **Marketing Management**  
+  VIT Online Learning (VITOL) Institute
+
+- **SQL**  
+  CareerNinja | LearnTube
+
+- **Web Pen Testing**  
+  Hack up Technology Pvt Ltd
+
+- **Training of Trainers**  
+  NPTEL Swayam 2022
+
+- **Financial Literacy**  
+  UNICEF
+
+- **Fundamentals Of Data Analytics**  
+  Learn Future Skills Primely | NASSCOM 2022
+
+- **PowerBI**  
+  GUVI Geek Networks, IITM Research Park
+
+---
+
+### 📚 Courses
+
+- **Master Data Science**  
+  IIT-M Advanced Programming Professional  
+  April 2024 – Present
+
+---
+
+### 🏢 Organizations
+
+- **Cultural Event Organiser**  
+  Sangamam, 2023
+
+- **Finance Head**  
+  Business 2020 | Present
+
+---
+
+### 📂 Projects
+
+#### Secure Data Sharing of Personal Health Records in Cloud Using AES Algorithm
+Experienced in secure data sharing and encryption techniques, adept at implementing AES algorithm for protecting personal health records in cloud environments. Skilled in developing efficient algorithms for keyword-based searching and data sharing operations, with a focus on maintaining privacy and security. Proven track record of delivering robust solutions for secure data management.
+
+#### Privacy Preserving Data Security Model in Cloud using AES Algorithm
+Experienced professional with expertise in cloud computing security and data protection. Skilled in implementing cryptographic algorithms and BYOEK platforms to ensure secure storage and access control of sensitive data in the cloud. Proven track record of developing and evaluating security models to address privacy concerns and mitigate potential risks.
+
+---
+
+### 📫 How to Reach Me
+
+- **Email:** [sethumadhavanvelu2002@gmail.com](mailto:sethumadhavanvelu2002@gmail.com)
+- **LinkedIn:** [Sethumadhavan V](https://www.linkedin.com/in/sethumadhavan-v/)
