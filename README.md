@@ -7,7 +7,7 @@
 
 ### 👋 Welcome to my GitHub Profile!
 
-I am Sethumadhavan V, a passionate Data Analyst with a focus on secure data sharing, cloud computing security, and data visualization. I am eager to explore new challenges and contribute to the development of innovative solutions.
+Recent M.Tech graduate in Software Engineering seeking an entry-level data analysis role in the tech industry. Eager to apply strong analytical skills, data interpretation, and problem-solving abilities to contribute to a dynamic team and drive impactful business decisions.
 
 ---
 
@@ -30,7 +30,8 @@ I am Sethumadhavan V, a passionate Data Analyst with a focus on secure data shar
 ### 💼 Skills
 
 - **Programming Languages:** Python, SQL
-- **Tools and Technologies:** Power BI, CRM, Microsoft Tools, MySQL, Streamlit, Plotly
+- **Tools and Software:** Microsoft Office,Power BI,Github
+- **Soft Skills:** CRM, Critical thinking, Time management
 - **Languages:** Tamil, English
 
 ---
@@ -40,9 +41,18 @@ I am Sethumadhavan V, a passionate Data Analyst with a focus on secure data shar
 - **Marketing Management**  
   VIT Online Learning (VITOL) Institute
 
+- **Introduction to Computer Application**  
+  VIT Online Learning (VITOL) Institute
+  
+- **Data Science Math Skills**  
+  duke university | Coursera
+
+- **Development of Real-Time Systems**  
+  EIT Digital | Coursera
+  
 - **SQL**  
   CareerNinja | LearnTube
-
+  
 - **Web Pen Testing**  
   Hack up Technology Pvt Ltd
 
@@ -63,7 +73,8 @@ I am Sethumadhavan V, a passionate Data Analyst with a focus on secure data shar
 ### 📚 Courses
 
 - **Master Data Science**  
-  IIT-M Advanced Programming Professional  
+  GUVI - ZEN Class ,
+  IIT-M Advanced Programming Professional
   April 2024 – Present
 
 ---
