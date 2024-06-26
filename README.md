@@ -44,35 +44,19 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 
 ### 🏆 Certifications
 
-- **Marketing Management**  
-  VIT Online Learning (VITOL) Institute
+| Certification                                  | Issuer                                               |
+|------------------------------------------------|------------------------------------------------------|
+| Marketing Management                           | VIT Online Learning (VITOL) Institute                |
+| Introduction to Computer Application           | VIT Online Learning (VITOL) Institute                |
+| Data Science Math Skills                       | Duke University \| Coursera                          |
+| Development of Real-Time Systems               | EIT Digital \| Coursera                              |
+| SQL                                            | CareerNinja \| LearnTube                             |
+| Web Pen Testing                                | Hack Up Technology Pvt Ltd                           |
+| Training of Trainers                           | NPTEL Swayam 2022                                    |
+| Financial Literacy                             | UNICEF                                               |
+| Fundamentals of Data Analytics                 | Learn Future Skills Primely \| NASSCOM 2022           |
+| PowerBI                                        | GUVI Geek Networks, IITM Research Park               |
 
-- **Introduction to Computer Application**  
-  VIT Online Learning (VITOL) Institute
-  
-- **Data Science Math Skills**  
-  duke university | Coursera
-
-- **Development of Real-Time Systems**  
-  EIT Digital | Coursera
-  
-- **SQL**  
-  CareerNinja | LearnTube
-  
-- **Web Pen Testing**  
-  Hack up Technology Pvt Ltd
-
-- **Training of Trainers**  
-  NPTEL Swayam 2022
-
-- **Financial Literacy**  
-  UNICEF
-
-- **Fundamentals Of Data Analytics**  
-  Learn Future Skills Primely | NASSCOM 2022
-
-- **PowerBI**  
-  GUVI Geek Networks, IITM Research Park
 
 ---
 
