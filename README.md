@@ -1,21 +1,3 @@
-<!-- Animation bottom-up -->
-
-
-<!-- Image avec animation bottom-up -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/3e7b42ddac3c8e86088e7cdc6f6aa76fdb5a26df/assets/Bottom_up.svg" style="animation: bottomUp 1s ease-out;"
-</p>
-<!-- Image header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png">
-</p>
-
-
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+DevOam;+Mobile+Developer;Java%2C+Kotlin%2C+Flutter%2C+SQLite%2C+MySQL%2C+Swift;Native+and+multiplatform+app+development;Web+development%3A+HTML%2C+CSS%2C+JavaScript%2C+jQuery%2C+PHP)](https://git.io/typing-svg)
 
