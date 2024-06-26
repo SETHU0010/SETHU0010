@@ -3,18 +3,7 @@
 
 <!-- Image avec animation bottom-up -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/3e7b42ddac3c8e86088e7cdc6f6aa76fdb5a26df/assets/Bottom_up.svg" style="animation: bottomUp 1s ease-out;">
-</p>
-
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/DevOam"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/android"><img src="https://img.shields.io/badge/Android-Java%2C%20Kotlin%2C%20Flutter-3DDC84.svg"></a>
-    <a href="https://github.com/DevOam/DevOam/graphs/contributors"><img src="https://img.shields.io/github/contributors/DevOam/DevOam?color=blue"></a>
-    <a href="https://github.com/DevOam/DevOam/stargazers"><img src="https://img.shields.io/github/stars/DevOam/DevOam.svg?logo=github"></a>
-    <a href="https://github.com/DevOam/DevOam/network/members"><img src="https://img.shields.io/github/forks/DevOam/DevOam.svg?color=blue&logo=github"></a>
-    <img src="https://komarev.com/ghpvc/?username=devoam&label=Profile%20views&color=0e75b6&style=flat" alt="visitors"/> 
-
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/3e7b42ddac3c8e86088e7cdc6f6aa76fdb5a26df/assets/Bottom_up.svg" style="animation: bottomUp 1s ease-out;"
 </p>
 <!-- Image header -->
 <p align="center">
