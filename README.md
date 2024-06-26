@@ -29,12 +29,13 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 
 ### 💼 Skills
 
-| Category             | Skills                                                                 |
-|----------------------|------------------------------------------------------------------------|
-| Programming Languages| 💻 Python, SQL                                                         |
-| Tools and Software   | 🛠️ Microsoft Office, Power BI, GitHub                                   |
-| Soft Skills          | 🧠 CRM, Critical Thinking, Time Management                               |
-| Languages            | 🌐 Tamil, English                                                       |
+| Category                | Skills                                                                 |
+|-------------------------|------------------------------------------------------------------------|
+| **Programming Languages** | ![Python Logo](url_to_python_logo) Python, ![SQL Logo](url_to_sql_logo) SQL                  |
+| **Tools and Software**     | Microsoft Office, Power BI, ![GitHub Logo](url_to_github_logo) GitHub            |
+| **Soft Skills**            | CRM, Critical thinking, Time management                                  |
+| **Languages**              | ![Tamil Language](url_to_tamil_logo) Tamil, ![English Language](url_to_english_logo) English |
+
 
 
 ---
