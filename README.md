@@ -75,7 +75,7 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
   Sangamam, 2023
 
 - **Finance Head**  
-  Business 2020 | Present
+  Business 2020 - 2024
 
 ---
 
