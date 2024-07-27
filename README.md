@@ -2,12 +2,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sethumadhavan-v/)
 [![Email](https://img.shields.io/badge/Email-sethumadhavanvelu2002%40gmail.com-red)](mailto:sethumadhavanvelu2002@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-green)](https://wa.me/9159299878)
 
 ---
 
 ### 👋 Welcome to my GitHub Profile!
 
 Recent M.Tech graduate in Software Engineering seeking an entry-level data analysis role in the tech industry. Eager to apply strong analytical skills, data interpretation, and problem-solving abilities to contribute to a dynamic team and drive impactful business decisions.
+
+![Profile Image](https://your-image-url.com/image.jpg)  <!-- Replace this URL with your actual profile image URL -->
 
 ---
 
@@ -36,10 +39,6 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 | Soft Skills          | 🧠 CRM, Critical Thinking, Time Management                               |
 | Languages            | 🌐 Tamil, English                                                       |
 
-
-
-
-
 ---
 
 ### 🏆 Certifications
@@ -57,14 +56,12 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 | Fundamentals of Data Analytics                 | Learn Future Skills Primely \| NASSCOM 2022           |
 | PowerBI                                        | GUVI Geek Networks, IITM Research Park               |
 
-
 ---
 
 ### 📚 Courses
 
 - **Master Data Science**  
-  GUVI - ZEN Class ,
-  IIT-M Advanced Programming Professional
+  GUVI - ZEN Class, IIT-M Advanced Programming Professional  
   April 2024 – Present
 
 ---
