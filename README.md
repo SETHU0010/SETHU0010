@@ -10,8 +10,6 @@
 
 Recent M.Tech graduate in Software Engineering seeking an entry-level data analysis role in the tech industry. Eager to apply strong analytical skills, data interpretation, and problem-solving abilities to contribute to a dynamic team and drive impactful business decisions.
 
-![Profile Image](https://your-image-url.com/image.jpg)  <!-- Replace this URL with your actual profile image URL -->
-
 ---
 
 ### 🎓 Education
