@@ -14,9 +14,14 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 
 ### 🎓 Education
 
+- **Master Data Science**  
+  GUVI - ZEN Class, IIT-M Advanced Programming Professional  
+  Feb 2024 – July 2024
+
+
 - **M. Tech Integrated Software Engineering**  
   Vellore Institute of Technology, Vellore   
-  2019 – Present
+  2019 – 2024
 
 - **Higher Secondary Education**  
   Sri Ayyan Vidyashram Higher Sec School   
@@ -32,7 +37,13 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 
 | Category             | Skills                                                                 |
 |----------------------|------------------------------------------------------------------------|
-| Programming Languages| 💻 Python, SQL                                                         |
+| Programming Languages| 💻 Python, SQL, Data Visualization, Streamlit                                                       |
+| Analysis Skills | Data Cleaning and Preprocessing
+Exploratory Data Analysis (EDA)
+StatisticalAnalysis
+Data Warehousing
+Predictive Modeling
+Market Research and Analysis                                   |
 | Tools and Software   | 🛠️ Microsoft Office, Power BI, GitHub                                   |
 | Soft Skills          | 🧠 CRM, Critical Thinking, Time Management                               |
 | Languages            | 🌐 Tamil, English                                                       |
@@ -53,25 +64,15 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 | Financial Literacy                             | UNICEF                                               |
 | Fundamentals of Data Analytics                 | Learn Future Skills Primely \| NASSCOM 2022           |
 | PowerBI                                        | GUVI Geek Networks, IITM Research Park               |
+| Generative AI                                        | GUVI Geek Networks, IITM Research Park               |
 
----
-
-### 📚 Courses
-
-- **Master Data Science**  
-  GUVI - ZEN Class, IIT-M Advanced Programming Professional  
-  April 2024 – Present
 
 ---
 
 ### 🏢 Organizations
 
-- **Cultural Event Organiser**  
-  Sangamam, 2023
-
-- **Finance Head**  
-  Business 2020 - 2024
-
+- **Cultural Event Organiser - Sangamam, 2022 - 2023**  
+  Handled hall management and logistics for successful cultural event execution, coordinating with vendors and volunteers for smooth operations.
 ---
 
 ### 📂 Projects
@@ -87,6 +88,10 @@ Developed a project for harvesting and warehousing YouTube data using SQL and St
 
 #### PhonePe Pulse Data Visualization and Exploration - A User-Friendly Tool Using Streamlit and Plotly
 Created a user-friendly tool for visualizing and exploring PhonePe Pulse data using Streamlit and Plotly, offering interactive visualizations and comprehensive data analysis features.
+
+#### Uber Fare Prediction and Streamlit Web
+-**Key Skill :** Python, Streamlit, AWS, Scikit-Learn, Pandas,NumPy, Matplotlib, Seaborn.
+Developed a machine learning model to predict Uber ride fares.Created a Streamlit web app for user-friendly fare estimates. Utilized Python, Scikit-Learn, and AWS for preprocessing, model training, and deployment. Implemented cloud storage and database management for scalability and performance. Achieved accurate fare predictions and improved user experience through dynamic pricing.
 
 ---
 
