@@ -12,6 +12,18 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 
 ---
 
+### 🎯 Interests & Goals
+
+I am passionate about leveraging data to drive decision-making and enhance user experiences. I aim to work on projects that challenge my analytical skills and allow me to delve into advanced data science techniques, ultimately contributing to innovative solutions in the tech industry.
+
+---
+
+### 🎨 Hobbies & Interests
+
+In my free time, I enjoy exploring new technologies, participating in hackathons, and reading about the latest trends in data science and artificial intelligence. I also love playing chess and engaging in outdoor activities, which help me maintain a balanced lifestyle.
+
+---
+
 ### 🎓 Education
 
 - **📚 Master Data Science**  
