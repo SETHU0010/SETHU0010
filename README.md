@@ -38,12 +38,7 @@ Recent M.Tech graduate in Software Engineering seeking an entry-level data analy
 | Category             | Skills                                                                 |
 |----------------------|------------------------------------------------------------------------|
 | Programming Languages| 💻 Python, SQL, Data Visualization, Streamlit                                                       |
-| Analysis Skills | Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-StatisticalAnalysis
-Data Warehousing
-Predictive Modeling
-Market Research and Analysis                                   |
+| Analysis Skills      | Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), StatisticalAnalysis, Data Warehousing, Predictive Modeling, Market Research and Analysis                                   |
 | Tools and Software   | 🛠️ Microsoft Office, Power BI, GitHub                                   |
 | Soft Skills          | 🧠 CRM, Critical Thinking, Time Management                               |
 | Languages            | 🌐 Tamil, English                                                       |
