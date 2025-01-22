@@ -77,7 +77,7 @@ In my free time, I enjoy exploring new technologies, participating in hackathons
 ### 🏢 Organizations
 
 **Intelligent Automation Services - Mavdero Technologies**  
-*Intern (09/2024 – Present)*  
+*Intern (09/2024 – 01/2025)*  
 Assisting in developing AI solutions, automating processes, analyzing data, creating documentation, and collaborating with teams to enhance operational efficiency. This opportunity provides hands-on experience in intelligent automation and innovative technologies.
 
 ---
