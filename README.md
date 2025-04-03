@@ -80,6 +80,17 @@ In my free time, I enjoy exploring new technologies, participating in hackathons
 *Intern (09/2024 – 03/2025)*  
 Assisting in developing AI solutions, automating processes, analyzing data, creating documentation, and collaborating with teams to enhance operational efficiency. This opportunity provides hands-on experience in intelligent automation and innovative technologies.
 
+### 🚀 Trainer – Data Analytics in Process Industries  
+**GUVI Geek Network Pvt. Ltd. | Naan Mudhalvan Initiative**  
+📅 **Feb 2025 – Present**  
+
+- 🎯 Conducting training sessions on **Python, SQL, Power BI, and Data Analytics** tailored for process industries.  
+- 🛠️ Designing hands-on workshops and guiding students in **Exploratory Data Analysis (EDA), Machine Learning (ML), and Data Visualization**.  
+- 🎓 Providing **mentorship, project guidance, and doubt clarification sessions** to enhance student learning.  
+- 📊 Developing **industry-relevant case studies and assessments** to bridge the gap between academia and real-world applications.  
+- 🔍 Ensuring **practical, application-based learning** for students through interactive sessions and real-world datasets.  
+
+
 ---
 
 ### 🎉 Extracurricular Activities
