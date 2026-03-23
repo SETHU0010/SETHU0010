@@ -2,15 +2,25 @@
 <h3 align="center">Aspiring Assistant Professor | Python Developer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sethumadhavan-v/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Aspiring+Assistant+Professor;Python+Developer;Data+Science+Enthusiast;Researcher+%7C+Mentor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:sethumadhavanvelu2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
-  <a href="https://wa.me/9159299878">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  <a href="https://wa.me/9159299878" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -32,7 +42,62 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 - Data Analytics and Visualization
 - Automation and Intelligent Systems
 - Cloud-based Application Development
-- Publishing quality research papers
+- Publishing Quality Research Papers
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+
+### Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### Data Science & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-8E44AD?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
+</p>
 
 ---
 
@@ -51,14 +116,6 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
   *GUVI – IIT Madras*  
   **2024**
 
-- **Higher Secondary Education**  
-  *Sri Ayyan Vidyashram Higher Secondary School*  
-  **2018 – 2019**
-
-- **SSLC**  
-  *Sri Ayyan Vidyashram Higher Secondary School*  
-  **2016 – 2017**
-
 ---
 
 ## 💼 Professional Experience
@@ -66,85 +123,23 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 ### **Teaching Cum Research Assistant (TRA)**  
 **Vellore Institute of Technology (VIT)**  
 **Aug 2025 – Present**
-- Supporting teaching activities, tutorials, and evaluation processes
-- Mentoring students in Python programming and analytics
-- Contributing to research, publications, and departmental academic activities
+- Supporting teaching activities, tutorials, and evaluations
+- Mentoring students in Python programming and data analytics
+- Contributing to academic research and publications
 
 ### **Trainer – Data Analytics in Process Industries**  
 **GUVI | Naan Mudhalvan Initiative**  
 **Feb 2025 – May 2025**
 - Delivered training on Python, SQL, Power BI, and Data Analytics
-- Designed hands-on workshops with real-world datasets
+- Designed hands-on workshops using real-world datasets
 - Guided students in EDA, machine learning, and visualization projects
-- Developed case studies, assignments, and assessment materials
 
 ### **Backend Developer Intern (Python)**  
 **Mavdero Technologies**  
 **Sep 2024 – Jul 2025**
 - Built AI-powered automation tools
-- Worked with real-time datasets and backend workflows
-- Supported API development and data-driven applications
-
----
-
-## 🛠️ Skills & Tools
-
-### **Programming Languages**
-- Python
-- SQL
-
-### **Libraries / Frameworks**
-- Pandas
-- NumPy
-- Flask
-- Streamlit
-- FastAPI
-- Matplotlib
-- Seaborn
-- Plotly
-- Generative AI
-
-### **Data & Analytics**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Predictive Modeling
-- Data Warehousing
-- Statistical Analysis
-
-### **Tools & Platforms**
-- Power BI
-- AWS
-- GitHub
-- MySQL
-- Postman
-- Jupyter Notebook
-- VS Code
-
-### **Soft Skills**
-- Critical Thinking
-- Teamwork
-- Research Writing
-- Time Management
-
-### **Languages Known**
-- Tamil
-- English
-
----
-
-## 📜 Certifications
-
-- SQL – CareerNinja / LearnTube
-- Power BI – GUVI Geek Networks
-- Generative AI – GUVI
-- Data Science Math Skills – Duke University (Coursera)
-- Development of Real-Time Systems – EIT Digital (Coursera)
-- Marketing Management – VITOL
-- Introduction to Computer Applications – VITOL
-- Fundamentals of Data Analytics – Primely / NASSCOM
-- Web Pen Testing – HackUp Technology
-- Training of Trainers – NPTEL SWAYAM
-- Financial Literacy – UNICEF
+- Supported API development and backend workflows
+- Worked on real-time data-driven applications
 
 ---
 
@@ -180,6 +175,25 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 
 ---
 
+## 📜 Certifications
+
+- SQL – CareerNinja / LearnTube
+- Power BI – GUVI Geek Networks
+- Generative AI – GUVI
+- Data Science Math Skills – Duke University (Coursera)
+- Development of Real-Time Systems – EIT Digital (Coursera)
+- Training of Trainers – NPTEL SWAYAM
+- Financial Literacy – UNICEF
+
+---
+
+## 🌐 Languages Known
+
+- Tamil
+- English
+
+---
+
 ## 🎨 Hobbies & Interests
 
 - Exploring new technologies
@@ -192,17 +206,27 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 
 ## 📫 Connect with Me
 
-- **Email:** sethumadhavanvelu2002@gmail.com
-- **LinkedIn:** [linkedin.com/in/sethumadhavan-v](https://www.linkedin.com/in/sethumadhavan-v/)
-- **WhatsApp:** [Chat on WhatsApp](https://wa.me/9159299878)
+<p>
+  <a href="mailto:sethumadhavanvelu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sethumadhavanvelu2002%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sethumadhavan%20V-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://wa.me/9159299878">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp" />
+  </a>
+</p>
 
 ---
 
 ## ⭐ Profile Summary
 
-A passionate researcher and developer with interests in **Python, Data Science, Machine Learning, Teaching, and Academic Research**.  
+A passionate researcher and developer with strong interests in **Python, Data Science, Machine Learning, Teaching, and Academic Research**.  
 Open to collaboration in **research projects, analytics applications, and educational initiatives**.
 
 ---
 
-<p align="center">Thanks for visiting my GitHub profile! ⭐</p>
+<p align="center">
+  <b>Thanks for visiting my GitHub profile! ⭐</b>
+</p>
