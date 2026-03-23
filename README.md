@@ -2,7 +2,9 @@
 <h3 align="center">Aspiring Assistant Professor | Python Developer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Aspiring+Assistant+Professor;Python+Developer;Data+Science+Enthusiast;Researcher+%7C+Mentor+%7C+Lifelong+Learner;AI+%7C+Data+Science+%7C+Academic+Research" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Aspiring+Assistant+Professor;Python+Developer;Data+Science+Enthusiast;Researcher+%7C+Mentor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -19,8 +21,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SETHU0010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSETHU0010&style=flat&logo=github" alt="Public Repositories" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=flat" alt="Open to Collaboration" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 
 🎓 I completed my **M.Tech in Integrated Software Engineering** at **VIT, Vellore** and I am currently pursuing a **Ph.D. in Computer Science Engineering and Information Systems** at **Vellore Institute of Technology (VIT)**.
 
-💡 I enjoy building practical applications using **Python, Machine Learning, Data Analytics, Cloud Technologies, and Intelligent Systems**, while also contributing to **research, mentoring, and academic development**.
+💡 I enjoy building practical applications using **Python, Machine Learning, Data Analytics, and Cloud Technologies**, while also contributing to **research and student mentoring**.
 
 ---
 
@@ -43,18 +43,6 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 - Automation and Intelligent Systems
 - Cloud-based Application Development
 - Publishing Quality Research Papers
-
----
-
-## 🔍 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Data Science & Analytics
-- Deep Learning & NLP
-- Cloud Computing & Deployment
-- Academic Research & Publication
-- Data Visualization & Storytelling
-- Automation & Intelligent Systems
 
 ---
 
@@ -100,52 +88,15 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 
 ---
 
-## 🧠 Soft Skills
-
-- Strong Communication & Presentation Skills
-- Teaching & Mentoring Ability
-- Problem-Solving Mindset
-- Critical Thinking & Analytical Skills
-- Time Management & Discipline
-- Team Collaboration & Leadership
-- Adaptability & Continuous Learning
-- Research-Oriented Thinking
-
----
-
-## 📦 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-SETHU0010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SETHU0010&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SETHU0010&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SETHU0010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SETHU0010&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SETHU0010/SETHU0010/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -192,129 +143,35 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔐 Secure Data Sharing of Personal Health Records</h3>
-      <p><b>Tech Stack:</b> AES, MySQL</p>
-      <p>
-        A secure health record management system designed to protect sensitive patient data through encryption and controlled access.
-      </p>
-      <ul>
-        <li>Implemented AES-based encryption for secure storage of personal health records</li>
-        <li>Added login authentication and role-based access control</li>
-        <li>Designed a user-friendly interface for secure record management</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Security-AES-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-MySQL-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-Healthcare-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-Secure%20PHR%20System-0E75B6?style=for-the-badge" /><br><br>
-      <img src="https://via.placeholder.com/500x250.png?text=Secure+Health+Record+System" alt="Secure Health Record Project Preview" />
-    </td>
-  </tr>
+### 🔐 Secure Data Sharing of Personal Health Records
+**Tech Stack:** AES, MySQL  
+- Developed a secure health record management system using AES encryption
+- Implemented login authentication and role-based access control
+- Designed a user-friendly interface for encrypted data handling
 
-  <tr>
-    <td width="50%">
-      <h3>🔒 Privacy-Preserving Data Security Model</h3>
-      <p><b>Tech Stack:</b> AES, Cloud Security</p>
-      <p>
-        A privacy-focused cloud security model developed to ensure safe access control and secure storage in distributed environments.
-      </p>
-      <ul>
-        <li>Designed secure access workflows using cryptographic methods</li>
-        <li>Applied BYOEK concepts for stronger cloud data protection</li>
-        <li>Focused on privacy preservation for sensitive information</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Privacy-Preserving-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cloud-Security-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Crypto-AES-red?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-Privacy%20Security%20Model-6A1B9A?style=for-the-badge" /><br><br>
-      <img src="https://via.placeholder.com/500x250.png?text=Privacy+Preserving+Security+Model" alt="Privacy Security Project Preview" />
-    </td>
-  </tr>
+### 🔒 Privacy-Preserving Data Security Model
+**Tech Stack:** AES, Cloud Security  
+- Built a secure data access model using cryptographic techniques
+- Implemented BYOEK and cloud storage security concepts
 
-  <tr>
-    <td width="50%">
-      <h3>📊 YouTube Data Harvesting & Warehousing</h3>
-      <p><b>Tech Stack:</b> SQL, Streamlit</p>
-      <p>
-        A data engineering and analytics project for extracting, processing, storing, and visualizing YouTube channel data efficiently.
-      </p>
-      <ul>
-        <li>Collected and transformed YouTube channel and video data</li>
-        <li>Stored structured information in SQL databases</li>
-        <li>Built an interactive Streamlit-based analytics interface</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Data-Engineering-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-SQL-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-YouTube%20Data%20Warehouse-FF0000?style=for-the-badge" /><br><br>
-      <img src="https://via.placeholder.com/500x250.png?text=YouTube+Data+Harvesting+Dashboard" alt="YouTube Data Project Preview" />
-    </td>
-  </tr>
+### 📊 YouTube Data Harvesting & Warehousing
+**Tech Stack:** SQL, Streamlit  
+- Extracted and processed YouTube channel data
+- Stored structured data in SQL databases
+- Built interactive visualizations using Streamlit
 
-  <tr>
-    <td width="50%">
-      <h3>📈 PhonePe Pulse Visualization Tool</h3>
-      <p><b>Tech Stack:</b> Streamlit, Plotly</p>
-      <p>
-        An interactive dashboard for analyzing digital payment trends, KPIs, and state-wise transaction insights.
-      </p>
-      <ul>
-        <li>Created KPI-driven dashboards for transaction analysis</li>
-        <li>Built state-wise and category-based visual comparisons</li>
-        <li>Used Plotly to create rich interactive charts and insights</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Dashboard-Interactive-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Charts-Plotly-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/App-Streamlit-red?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-PhonePe%20Pulse%20Dashboard-6f42c1?style=for-the-badge" /><br><br>
-      <img src="https://via.placeholder.com/500x250.png?text=PhonePe+Pulse+Visualization+Dashboard" alt="PhonePe Dashboard Preview" />
-    </td>
-  </tr>
+### 📈 PhonePe Pulse Visualization Tool
+**Tech Stack:** Streamlit, Plotly  
+- Created an interactive dashboard for transaction insights
+- Added KPIs, geographical views, and state-wise comparisons
 
-  <tr>
-    <td width="50%">
-      <h3>🚖 Uber Fare Prediction</h3>
-      <p><b>Tech Stack:</b> Machine Learning, Streamlit, AWS</p>
-      <p>
-        A machine learning application that predicts Uber fare prices using trip-based input features and interactive deployment.
-      </p>
-      <ul>
-        <li>Built and trained a predictive machine learning model</li>
-        <li>Integrated the model into a Streamlit web application</li>
-        <li>Used AWS for deployment and cloud-based support</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/ML-Prediction-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployment-AWS-232F3E?style=flat-square" />
-        <img src="https://img.shields.io/badge/App-Streamlit-red?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-Uber%20Fare%20Prediction-000000?style=for-the-badge" /><br><br>
-      <img src="https://via.placeholder.com/500x250.png?text=Uber+Fare+Prediction+System" alt="Uber Fare Prediction Preview" />
-    </td>
-  </tr>
-</table>
+### 🚖 Uber Fare Prediction
+**Tech Stack:** Machine Learning, Streamlit, AWS  
+- Built a machine learning model to predict Uber fare prices
+- Integrated the model into a Streamlit web application
+- Used AWS for deployment and storage support
 
 ---
 
@@ -339,25 +196,11 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 
 ## 🎨 Hobbies & Interests
 
-- 🌱 Exploring New Technologies
-- 📚 Reading AI and Data Science Articles
-- 🌾 Agriculture
-- 🌿 Nature Lover
-- 🏛️ Visiting Old and Historical Places
-- 🚴 Bike Travelling
-- 🤝 Spending Quality Time with Friends
-- ♟️ Playing Chess
-- 💻 Participating in Hackathons
-- 🌍 Learning About New Cultures and Environments
-
----
-
-## 📈 Current Focus
-
-- 🔬 Publishing Research Papers in AI & Data Science
-- 📊 Building Real-world Data Science Projects
-- ☁️ Exploring Cloud & Scalable Systems
-- 🎓 Enhancing Teaching & Academic Skills
+- Exploring new technologies
+- Reading AI and Data Science articles
+- Participating in hackathons
+- Playing chess
+- Outdoor activities
 
 ---
 
@@ -380,7 +223,7 @@ I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Scien
 ## ⭐ Profile Summary
 
 A passionate researcher and developer with strong interests in **Python, Data Science, Machine Learning, Teaching, and Academic Research**.  
-Open to collaboration in **research projects, analytics applications, educational initiatives, and innovative software solutions**.
+Open to collaboration in **research projects, analytics applications, and educational initiatives**.
 
 ---
 
