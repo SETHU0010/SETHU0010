@@ -1,162 +1,208 @@
-## 👋 Hi, I'm **Sethumadhavan V**
+<h1 align="center">Hi 👋, I'm Sethumadhavan V</h1>
+<h3 align="center">Aspiring Assistant Professor | Python Developer | Data Science Enthusiast</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sethumadhavan-v/)
-[![Email](https://img.shields.io/badge/Email-sethumadhavanvelu2002%40gmail.com-red)](mailto:sethumadhavanvelu2002@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/9159299878)
-
----
-
-# 🌟 Welcome to My GitHub Profile!
-
-I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Science Enthusiast**.  
-I completed my **M.Tech in Software Engineering** at VIT and I am currently pursuing a **Ph.D. in Computer Science Engineering and Information Systems** at Vellore Institute of Technology (VIT).
-
-I am passionate about **teaching, research, data analytics, automation**, and building real-world applications using **Python and Machine Learning**.
-
----
-
-# 🎯 Interests & Career Goals
-
-- Solving real-world problems using **AI and Data Science**
-- Building **automation and intelligent systems**
-- Teaching and mentoring students
-- Developing **cloud-based and data-driven applications**
-- Publishing impactful **research papers**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sethumadhavanvelu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://wa.me/9159299878">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
 
 ---
 
-# 🎨 Hobbies & Personal Interests
+## 🌟 About Me
 
-- Exploring new technologies  
-- Reading AI & Data Science articles  
-- Participating in hackathons  
-- Playing chess  
-- Outdoor activities  
+I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Science Enthusiast** with a strong interest in **teaching, research, automation, and intelligent systems**.
+
+🎓 I completed my **M.Tech in Integrated Software Engineering** at **VIT, Vellore** and I am currently pursuing a **Ph.D. in Computer Science Engineering and Information Systems** at **Vellore Institute of Technology (VIT)**.
+
+💡 I enjoy building practical applications using **Python, Machine Learning, Data Analytics, and Cloud Technologies**, while also contributing to **research and student mentoring**.
 
 ---
 
-# 🎓 Education
+## 🎯 Career Interests
 
-- **Ph.D. – Computer Science Engineering & Information Systems**  
+- Artificial Intelligence and Data Science
+- Teaching and Academic Research
+- Data Analytics and Visualization
+- Automation and Intelligent Systems
+- Cloud-based Application Development
+- Publishing quality research papers
+
+---
+
+## 🎓 Education
+
+- **Ph.D. in Computer Science Engineering and Information Systems**  
   *Vellore Institute of Technology (VIT)*  
-  📅 **2025 – Present**
+  **2025 – Present**
 
-- **M.Tech – Integrated Software Engineering**  
+- **M.Tech in Integrated Software Engineering**  
   *VIT, Vellore*  
-  📅 **2019 – 2024**  
-  ✅ **CGPA: 7.65**
+  **2019 – 2024**  
+  **CGPA:** 7.65
 
 - **Master Data Science & IITM Advanced Programming Professional**  
   *GUVI – IIT Madras*  
-  📅 **2024**
+  **2024**
 
 - **Higher Secondary Education**  
-  Sri Ayyan Vidyashram Higher Sec School (2018 – 2019)
+  *Sri Ayyan Vidyashram Higher Secondary School*  
+  **2018 – 2019**
 
 - **SSLC**  
-  Sri Ayyan Vidyashram Higher Sec School (2016 – 2017)
+  *Sri Ayyan Vidyashram Higher Secondary School*  
+  **2016 – 2017**
 
 ---
 
-# 💼 Skills
+## 💼 Professional Experience
 
-| Category | Skills |
-|---------|--------|
-| **Languages** | Python, SQL |
-| **Libraries / Frameworks** | Pandas, NumPy, Flask, Streamlit, FastAPI, Matplotlib, Seaborn, Plotly, GenAI |
-| **Data & Analytics** | EDA, Data Cleaning, Predictive Modeling, Data Warehousing, Statistical Analysis |
-| **Tools** | Power BI, AWS, GitHub, MySQL, Postman, Jupyter, VS Code |
-| **Soft Skills** | Critical Thinking, Teamwork, Research Writing, Time Management |
-| **Languages Known** | Tamil, English |
-
----
-
-# 🏆 Certifications
-
-- SQL – CareerNinja / LearnTube  
-- PowerBI – GUVI Geek Networks  
-- Generative AI – GUVI  
-- Data Science Math Skills – Duke University (Coursera)  
-- Development of Real-Time Systems – EIT Digital (Coursera)  
-- Marketing Management – VITOL  
-- Introduction to Computer Applications – VITOL  
-- Fundamentals of Data Analytics – Primely / NASSCOM  
-- Web Pen Testing – HackUp Technology  
-- Training of Trainers – NPTEL SWAYAM  
-- Financial Literacy – UNICEF  
-
----
-
-# 🏢 Professional Experience
-
-### 🔹 Teaching Cum Research Assistant (TRA)  
+### **Teaching Cum Research Assistant (TRA)**  
 **Vellore Institute of Technology (VIT)**  
-📅 **Aug 2025 – Present**  
-- Supporting teaching activities, tutorials, and evaluation  
-- Guiding student projects and helping them learn Python & analytics  
-- Working on research, Scopus publications, and department activities  
+**Aug 2025 – Present**
+- Supporting teaching activities, tutorials, and evaluation processes
+- Mentoring students in Python programming and analytics
+- Contributing to research, publications, and departmental academic activities
 
----
-
-### 🔹 Trainer – Data Analytics in Process Industries  
+### **Trainer – Data Analytics in Process Industries**  
 **GUVI | Naan Mudhalvan Initiative**  
-📅 **Feb 2025 – May 2025**  
-- Conducted training on Python, SQL, Power BI & Data Analytics  
-- Designed real-world data workshops  
-- Guided students on EDA, ML & visualization projects  
-- Developed case studies and assessment materials  
+**Feb 2025 – May 2025**
+- Delivered training on Python, SQL, Power BI, and Data Analytics
+- Designed hands-on workshops with real-world datasets
+- Guided students in EDA, machine learning, and visualization projects
+- Developed case studies, assignments, and assessment materials
 
----
-
-### 🔹 Backend Developer Intern (Python)  
+### **Backend Developer Intern (Python)**  
 **Mavdero Technologies**  
-📅 **Sep 2024 – Jul 2025**  
-- Built AI-based automation tools  
-- Worked with real-time datasets  
-- Supported backend development & API workflows  
+**Sep 2024 – Jul 2025**
+- Built AI-powered automation tools
+- Worked with real-time datasets and backend workflows
+- Supported API development and data-driven applications
 
 ---
 
-# 📂 Projects
+## 🛠️ Skills & Tools
 
-### 🔐 Secure Data Sharing of Personal Health Records (AES + MySQL)
-- Implemented AES encryption for secure health record storage  
-- Built login & role-based access control  
-- Designed a simple UI for encrypted data management  
+### **Programming Languages**
+- Python
+- SQL
+
+### **Libraries / Frameworks**
+- Pandas
+- NumPy
+- Flask
+- Streamlit
+- FastAPI
+- Matplotlib
+- Seaborn
+- Plotly
+- Generative AI
+
+### **Data & Analytics**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Predictive Modeling
+- Data Warehousing
+- Statistical Analysis
+
+### **Tools & Platforms**
+- Power BI
+- AWS
+- GitHub
+- MySQL
+- Postman
+- Jupyter Notebook
+- VS Code
+
+### **Soft Skills**
+- Critical Thinking
+- Teamwork
+- Research Writing
+- Time Management
+
+### **Languages Known**
+- Tamil
+- English
 
 ---
 
-### 🔒 Privacy-Preserving Data Security Model (AES + Cloud Security)
-- Developed secure data access using cryptography  
-- Implemented BYOEK and cloud storage security techniques  
+## 📜 Certifications
+
+- SQL – CareerNinja / LearnTube
+- Power BI – GUVI Geek Networks
+- Generative AI – GUVI
+- Data Science Math Skills – Duke University (Coursera)
+- Development of Real-Time Systems – EIT Digital (Coursera)
+- Marketing Management – VITOL
+- Introduction to Computer Applications – VITOL
+- Fundamentals of Data Analytics – Primely / NASSCOM
+- Web Pen Testing – HackUp Technology
+- Training of Trainers – NPTEL SWAYAM
+- Financial Literacy – UNICEF
 
 ---
 
-### 📊 YouTube Data Harvesting & Warehousing (SQL + Streamlit)
-- Extracted YouTube channel data  
-- Stored and visualized using SQL & Streamlit  
+## 🚀 Projects
+
+### 🔐 Secure Data Sharing of Personal Health Records
+**Tech Stack:** AES, MySQL  
+- Developed a secure health record management system using AES encryption
+- Implemented login authentication and role-based access control
+- Designed a user-friendly interface for encrypted data handling
+
+### 🔒 Privacy-Preserving Data Security Model
+**Tech Stack:** AES, Cloud Security  
+- Built a secure data access model using cryptographic techniques
+- Implemented BYOEK and cloud storage security concepts
+
+### 📊 YouTube Data Harvesting & Warehousing
+**Tech Stack:** SQL, Streamlit  
+- Extracted and processed YouTube channel data
+- Stored structured data in SQL databases
+- Built interactive visualizations using Streamlit
+
+### 📈 PhonePe Pulse Visualization Tool
+**Tech Stack:** Streamlit, Plotly  
+- Created an interactive dashboard for transaction insights
+- Added KPIs, geographical views, and state-wise comparisons
+
+### 🚖 Uber Fare Prediction
+**Tech Stack:** Machine Learning, Streamlit, AWS  
+- Built a machine learning model to predict Uber fare prices
+- Integrated the model into a Streamlit web application
+- Used AWS for deployment and storage support
 
 ---
 
-### 📈 PhonePe Pulse Visualization Tool  
-- Developed interactive dashboard using Streamlit + Plotly  
-- Added maps, KPIs, state-wise comparisons  
+## 🎨 Hobbies & Interests
+
+- Exploring new technologies
+- Reading AI and Data Science articles
+- Participating in hackathons
+- Playing chess
+- Outdoor activities
 
 ---
 
-### 🚖 Uber Fare Prediction (ML + Streamlit + AWS)
-- Built ML model for fare prediction  
-- Integrated into a Streamlit web app  
-- Used AWS for storage & deployment  
+## 📫 Connect with Me
+
+- **Email:** sethumadhavanvelu2002@gmail.com
+- **LinkedIn:** [linkedin.com/in/sethumadhavan-v](https://www.linkedin.com/in/sethumadhavan-v/)
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/9159299878)
 
 ---
 
-# 📫 Connect with Me
+## ⭐ Profile Summary
 
-📧 **Email:** sethumadhavanvelu2002@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sethumadhavan-v/  
-💬 **WhatsApp:** https://wa.me/9159299878  
+A passionate researcher and developer with interests in **Python, Data Science, Machine Learning, Teaching, and Academic Research**.  
+Open to collaboration in **research projects, analytics applications, and educational initiatives**.
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect with me.**  
+<p align="center">Thanks for visiting my GitHub profile! ⭐</p>
