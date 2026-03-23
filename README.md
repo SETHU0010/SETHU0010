@@ -1,58 +1,79 @@
 <h1 align="center">Hi 👋, I'm Sethumadhavan V</h1>
+<h3 align="center">Teaching Cum Research Assistant | Ph.D. Scholar | Python Developer | Aspiring Assistant Professor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Sethumadhavan+V;Teaching+Cum+Research+Assistant+%7C+Ph.D.+Scholar;Aspiring+Assistant+Professor+%7C+Python+Developer;Data+Science+%7C+AI+%7C+Research" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Sethumadhavan+V;Teaching+Cum+Research+Assistant+at+VIT;Ph.D.+Scholar+in+CSE+%26+Information+Systems;Aspiring+Assistant+Professor;Python+Developer+%7C+Data+Science+%7C+AI+%7C+Research" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SETHU0010&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SETHU0010?label=Followers&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/SETHU0010?label=Stars&style=for-the-badge" alt="stars" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Ph.D. Scholar in **Computer Science Engineering & Information Systems** at VIT  
-👨‍🏫 Teaching Cum Research Assistant (TRA) at VIT  
-💡 Passionate about **AI, Data Science, and Intelligent Systems**  
-📊 Focused on solving real-world problems using **Machine Learning & Analytics**  
-📚 Interested in **Teaching, Research, and Academic Development**
+🎓 Ph.D. Scholar in **Computer Science Engineering & Information Systems** at **VIT**  
+👨‍🏫 Teaching Cum Research Assistant (**TRA**) at **VIT**  
+💡 Passionate about **Artificial Intelligence, Data Science, and Intelligent Systems**  
+📊 Focused on solving real-world problems using **Machine Learning, Analytics, and Secure Systems**  
+📚 Interested in **Teaching, Research, Academic Development, and Innovation**  
 
 ---
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence & Machine Learning  
-- Data Analytics & Predictive Modeling  
-- Secure Data Systems & Cryptography  
-- Cloud Computing & Scalable Systems  
-- Educational Technologies  
+<p align="left">
+  🔹 Artificial Intelligence & Machine Learning <br>
+  🔹 Data Analytics & Predictive Modeling <br>
+  🔹 Secure Data Systems & Cryptography <br>
+  🔹 Cloud Computing & Scalable Systems <br>
+  🔹 Educational Technologies
+</p>
 
 ---
 
 ## 🧠 Skills & Tech Stack
 
 ### 👨‍💻 Programming Languages
-- Python 🐍  
-- SQL  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
 ### 📚 Libraries & Frameworks
-- Pandas, NumPy  
-- Matplotlib, Seaborn, Plotly  
-- Flask, FastAPI, Streamlit  
-- Generative AI  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-6A5ACD?style=for-the-badge"/>
+</p>
 
 ### 📊 Data & Analytics
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preprocessing  
-- Predictive Modeling  
-- Statistical Analysis  
-- Data Warehousing  
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Predictive Modeling
+- Statistical Analysis
+- Data Warehousing
 
 ### 🛠️ Tools & Platforms
-- Power BI  
-- AWS  
-- MySQL  
-- Git & GitHub  
-- Postman  
-- Jupyter Notebook  
-- VS Code  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
@@ -60,26 +81,22 @@
 
 ### 🔹 Teaching Cum Research Assistant (TRA)  
 **Vellore Institute of Technology (VIT)**  
-📅 Aug 2025 – Present  
+📅 **Aug 2025 – Present**  
 - Assisting in teaching, tutorials, and evaluations  
 - Guiding students in Python & Data Analytics  
 - Working on research publications (Scopus indexed)  
 - Supporting departmental academic activities  
 
----
-
 ### 🔹 Trainer – Data Analytics in Process Industries  
 **GUVI | Naan Mudhalvan Initiative**  
-📅 Feb 2025 – May 2025  
+📅 **Feb 2025 – May 2025**  
 - Delivered training on Python, SQL, and Power BI  
 - Conducted real-world data workshops  
 - Mentored students on ML & analytics projects  
 
----
-
 ### 🔹 Backend Developer Intern (Python)  
 **Mavdero Technologies**  
-📅 Sep 2024 – Jul 2025  
+📅 **Sep 2024 – Jul 2025**  
 - Developed AI-based automation systems  
 - Built backend APIs and handled real-time datasets  
 - Improved data processing workflows  
@@ -112,15 +129,15 @@
 
 ## 🎓 Education
 
-🎓 Ph.D. – Computer Science Engineering & Information Systems  
-Vellore Institute of Technology (2025 – Present)  
+🎓 **Ph.D. – Computer Science Engineering & Information Systems**  
+**Vellore Institute of Technology** *(2025 – Present)*  
 
-🎓 M.Tech – Integrated Software Engineering  
-VIT (2019 – 2024)  
-CGPA: 7.65  
+🎓 **M.Tech – Integrated Software Engineering**  
+**VIT** *(2019 – 2024)*  
+**CGPA:** 7.65  
 
-🎓 Master Data Science Program  
-GUVI – IIT Madras (2024)  
+🎓 **Master Data Science Program**  
+**GUVI – IIT Madras** *(2024)*  
 
 ---
 
@@ -140,35 +157,56 @@ GUVI – IIT Madras (2024)
 ## 🎨 Hobbies & Interests
 
 - ♟️ Playing Chess  
-- 📚 Reading AI & Data Science articles  
-- 💻 Exploring new technologies  
-- 🏆 Participating in hackathons  
-- 🌿 Outdoor activities  
+- 📚 Reading AI & Data Science Articles  
+- 💻 Exploring New Technologies  
+- 🏆 Participating in Hackathons  
+- 🌿 Outdoor Activities  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SETHU0010&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SETHU0010&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SETHU0010&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: sethumadhavanvelu2002@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sethumadhavan-v/  
-💬 WhatsApp: https://wa.me/9159299878  
+<p align="left">
+  <a href="mailto:sethumadhavanvelu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/9159299878" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⭐ Final Note
 
-✨ *“Passionate about teaching, research, and building intelligent systems that create real-world impact.”*
+<p align="center">
+  ✨ <i>“Passionate about teaching, research, and building intelligent systems that create real-world impact.”</i>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+</p>
