@@ -1,174 +1,146 @@
-<h1 align="center">Hi 👋, I'm Sethumadhavan V</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Sethumadhavan+V;Teaching+Cum+Research+Assistant+%7C+Ph.D.+Scholar;Aspiring+Assistant+Professor+%7C+Python+Developer;Data+Science+%7C+AI+%7C+Research" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Sethumadhavan%20V&fontSize=42&fontAlignY=40&desc=Aspiring%20Assistant%20Professor%20%7C%20Ph.D.%20Scholar%20%7C%20Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&animation=fadeIn" />
+
+<h1>Hi 👋, I'm Sethumadhavan V</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Sethumadhavan+V;Teaching+Cum+Research+Assistant+%7C+Ph.D.+Scholar;Aspiring+Assistant+Professor+%7C+Python+Developer;Data+Science+%7C+AI+%7C+Research;Building+Intelligent+Systems+for+Real-World+Impact" />
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sethumadhavanvelu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://wa.me/9159299878">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science%20%7C%20Research-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Teaching%20Cum%20Research%20Assistant-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Institute-VIT-orange?style=flat-square" />
+</p>
+
+</div>
+
+---
+
+## 🧠 AI-Themed Profile Summary
+
+I am an **Aspiring Assistant Professor**, **Python Developer**, and **Data Science Enthusiast** with strong interests in **teaching, research, artificial intelligence, analytics, and intelligent systems**.
+
+Currently pursuing a **Ph.D. in Computer Science Engineering & Information Systems at VIT**, with a focus on building **data-driven and intelligent applications**.
 
 ---
 
 ## 🚀 About Me
 
-🎓 Ph.D. Scholar in **Computer Science Engineering & Information Systems** at VIT  
-👨‍🏫 Teaching Cum Research Assistant (TRA) at VIT  
-💡 Passionate about **AI, Data Science, and Intelligent Systems**  
-📊 Focused on solving real-world problems using **Machine Learning & Analytics**  
-📚 Interested in **Teaching, Research, and Academic Development**
+- 🎓 Ph.D. Scholar in Computer Science Engineering & Information Systems  
+- 👨‍🏫 Teaching Cum Research Assistant at VIT  
+- 💡 Passionate about AI, Data Science & Automation  
+- 📊 Focused on Machine Learning & Real-World Applications  
+- 📚 Dedicated to Teaching, Mentoring & Research  
 
 ---
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence & Machine Learning  
+- Artificial Intelligence  
+- Machine Learning  
 - Data Analytics & Predictive Modeling  
-- Secure Data Systems & Cryptography  
-- Cloud Computing & Scalable Systems  
-- Educational Technologies  
-
----
-
-## 🧠 Skills & Tech Stack
-
-### 👨‍💻 Programming Languages
-- Python 🐍  
-- SQL  
-
-### 📚 Libraries & Frameworks
-- Pandas, NumPy  
-- Matplotlib, Seaborn, Plotly  
-- Flask, FastAPI, Streamlit  
-- Generative AI  
-
-### 📊 Data & Analytics
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preprocessing  
-- Predictive Modeling  
-- Statistical Analysis  
-- Data Warehousing  
-
-### 🛠️ Tools & Platforms
-- Power BI  
-- AWS  
-- MySQL  
-- Git & GitHub  
-- Postman  
-- Jupyter Notebook  
-- VS Code  
+- Cryptography & Secure Systems  
+- Cloud Computing  
+- Intelligent Automation  
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🔹 Teaching Cum Research Assistant (TRA)  
-**Vellore Institute of Technology (VIT)**  
-📅 Aug 2025 – Present  
-- Assisting in teaching, tutorials, and evaluations  
-- Guiding students in Python & Data Analytics  
-- Working on research publications (Scopus indexed)  
-- Supporting departmental academic activities  
+**VIT** | Aug 2025 – Present  
+- Teaching support, tutorials, evaluation  
+- Student mentoring in Python & analytics  
+- Research publications & academic activities  
+
+### 🔹 Trainer – Data Analytics  
+**GUVI | Naan Mudhalvan** | Feb 2025 – May 2025  
+- Python, SQL, Power BI training  
+- ML & EDA project mentoring  
+
+### 🔹 Backend Developer Intern  
+**Mavdero Technologies** | Sep 2024 – Jul 2025  
+- AI automation tools  
+- Backend APIs & data workflows  
 
 ---
 
-### 🔹 Trainer – Data Analytics in Process Industries  
-**GUVI | Naan Mudhalvan Initiative**  
-📅 Feb 2025 – May 2025  
-- Delivered training on Python, SQL, and Power BI  
-- Conducted real-world data workshops  
-- Mentored students on ML & analytics projects  
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Frameworks:** Flask, FastAPI, Streamlit  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Tools:** AWS, Power BI, MySQL, GitHub, Postman  
 
 ---
 
-### 🔹 Backend Developer Intern (Python)  
-**Mavdero Technologies**  
-📅 Sep 2024 – Jul 2025  
-- Developed AI-based automation systems  
-- Built backend APIs and handled real-time datasets  
-- Improved data processing workflows  
+## 📂 Projects
+
+- 🔐 Secure Health Record System (AES + MySQL)  
+- 🔒 Privacy-Preserving Cloud Security Model  
+- 📊 YouTube Data Warehouse (SQL + Streamlit)  
+- 📈 PhonePe Dashboard (Plotly + Streamlit)  
+- 🚖 Uber Fare Prediction (ML + AWS)  
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Analytics
 
-### 🔐 Secure Data Sharing of Personal Health Records
-- AES Encryption + MySQL  
-- Role-based secure access system  
+<div align="center">
 
-### 🔒 Privacy-Preserving Data Security Model
-- Cloud security with cryptography  
-- BYOEK-based data protection  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SETHU0010&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 📊 YouTube Data Warehousing Tool
-- Data extraction + SQL storage  
-- Streamlit dashboard visualization  
+</div>
 
-### 📈 PhonePe Pulse Dashboard
-- Interactive dashboard using Plotly + Streamlit  
-- State-wise insights & KPIs  
+<div align="center">
 
-### 🚖 Uber Fare Prediction System
-- Machine Learning model deployment  
-- Streamlit web app + AWS integration  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SETHU0010&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🎓 Education
+## 📈 Contribution Snake
 
-🎓 Ph.D. – Computer Science Engineering & Information Systems  
-Vellore Institute of Technology (2025 – Present)  
+<div align="center">
 
-🎓 M.Tech – Integrated Software Engineering  
-VIT (2019 – 2024)  
-CGPA: 7.65  
+![snake gif](https://github.com/SETHU0010/SETHU0010/blob/output/github-contribution-grid-snake.svg)
 
-🎓 Master Data Science Program  
-GUVI – IIT Madras (2024)  
-
----
-
-## 🏆 Certifications
-
-- SQL – CareerNinja / LearnTube  
-- Power BI – GUVI  
-- Generative AI – GUVI  
-- Data Science Math Skills – Duke University  
-- Real-Time Systems – EIT Digital  
-- NPTEL Training of Trainers  
-- Web Pen Testing – HackUp  
-- Financial Literacy – UNICEF  
-
----
-
-## 🎨 Hobbies & Interests
-
-- ♟️ Playing Chess  
-- 📚 Reading AI & Data Science articles  
-- 💻 Exploring new technologies  
-- 🏆 Participating in hackathons  
-- 🌿 Outdoor activities  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SETHU0010&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: sethumadhavanvelu2002@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sethumadhavan-v/  
-💬 WhatsApp: https://wa.me/9159299878  
+- 📧 sethumadhavanvelu2002@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sethumadhavan-v/  
+- 💬 WhatsApp: https://wa.me/9159299878  
 
 ---
 
-## ⭐ Final Note
+## ✨ Vision
 
-✨ *“Passionate about teaching, research, and building intelligent systems that create real-world impact.”*
+> To contribute to academia and industry through teaching, research, and intelligent data-driven solutions.
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+
+</div>
