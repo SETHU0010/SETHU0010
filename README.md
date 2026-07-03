@@ -32,6 +32,14 @@
 
 ---
 
+## Quick Snapshot
+
+- Researching applied AI, healthcare machine learning, and privacy-preserving systems.
+- Building Python, Streamlit, Flask, FastAPI, SQL, Power BI, and AWS-supported solutions.
+- Mentoring students in programming, data analytics, project development, and research writing.
+
+---
+
 ## About Me
 
 I am **Sethumadhavan V**, a **Ph.D. Scholar in Computer Science Engineering and Information Systems** and a **Teaching-cum-Research Assistant** at **Vellore Institute of Technology (VIT), Vellore**.
@@ -181,29 +189,45 @@ I enjoy building practical applications with **Python, SQL, Power BI, Streamlit,
 
 ---
 
+## Selected Work
+
+| Project | Focus | Links |
+|---|---|---|
+| Automated Resume Parsing and Skill Analysis System | NLP, resume ranking, Gemini API, Flask, MySQL | [Repository](https://github.com/SETHU0010/Automated-Resume-Parsing-and-Skill-Analysis-System) |
+| Secure Data Sharing of Personal Health Records | AES encryption, MySQL, secure access control | Demo/Repository coming soon |
+| YouTube Data Harvesting and Warehousing | SQL, Streamlit, data processing | [Repository](https://github.com/SETHU0010/YouTube_Data_Harvesting_and_Warehousing_using_SQL_and_Streamlit) |
+| Water Safety Classification App | Machine learning, classification, Streamlit | [Repository](https://github.com/SETHU0010/Water_Safety_Classification_App) |
+| Loan Risk Assessment | Machine learning, risk prediction, Streamlit | [Repository](https://github.com/SETHU0010/Loan-Risk-Assessment-Using-Machine-Learning-and-Streamlit) |
+| GenAI Use Case Generation System | Generative AI, use-case ideation, automation | [Repository](https://github.com/SETHU0010/GenAI_Use_Case_Generation_System) |
+
+---
+
 ## Featured Projects
-
-### Secure Data Sharing of Personal Health Records in SQL Using AES Algorithm
-
-**Key Skills:** HTML, CSS, MySQL, AES
-
-- Designed a secure system for managing personal health records with AES encryption.
-- Implemented encryption and decryption workflows to protect sensitive health data.
-- Stored encrypted records in a MySQL database.
-- Built a web interface with authentication and role-based access control.
 
 ### Automated Resume Parsing and Skill Analysis System
 
-**Key Skills:** Python, Flask, Cosine Similarity, PyPDF2, HTML, CSS, Gemini API, MySQL
+**Key Skills:** Python, Flask, Cosine Similarity, PyPDF2, HTML, CSS, Gemini API, MySQL  
+**Repository:** [Automated Resume Parsing and Skill Analysis System](https://github.com/SETHU0010/Automated-Resume-Parsing-and-Skill-Analysis-System)
 
 - Developed a web application that matches resumes with job descriptions using NLP techniques.
 - Implemented secure file upload and text extraction from PDF and DOCX resumes.
 - Extracted and analyzed skills, experience, and education using regex and AI-based methods.
 - Integrated the Gemini API for intelligent resume insights and ranking.
 
+### Secure Data Sharing of Personal Health Records in SQL Using AES Algorithm
+
+**Key Skills:** HTML, CSS, MySQL, AES  
+**Repository:** Coming soon
+
+- Designed a secure system for managing personal health records with AES encryption.
+- Implemented encryption and decryption workflows to protect sensitive health data.
+- Stored encrypted records in a MySQL database.
+- Built a web interface with authentication and role-based access control.
+
 ### Privacy-Preserving Data Security Model
 
-**Key Skills:** AES, Cloud Security, Secure Access Control
+**Key Skills:** AES, Cloud Security, Secure Access Control  
+**Repository:** Coming soon
 
 - Built a secure data access model using cryptographic techniques.
 - Applied privacy, confidentiality, and secure cloud access concepts.
@@ -211,7 +235,8 @@ I enjoy building practical applications with **Python, SQL, Power BI, Streamlit,
 
 ### YouTube Data Harvesting and Warehousing
 
-**Key Skills:** SQL, Streamlit, Data Processing
+**Key Skills:** SQL, Streamlit, Data Processing  
+**Repository:** [YouTube Data Harvesting and Warehousing](https://github.com/SETHU0010/YouTube_Data_Harvesting_and_Warehousing_using_SQL_and_Streamlit)
 
 - Extracted and processed YouTube channel data.
 - Stored structured data in SQL databases.
@@ -219,7 +244,8 @@ I enjoy building practical applications with **Python, SQL, Power BI, Streamlit,
 
 ### PhonePe Pulse Data Visualization
 
-**Key Skills:** Streamlit, Plotly, Data Visualization
+**Key Skills:** Streamlit, Plotly, Data Visualization  
+**Repository:** Coming soon
 
 - Created an interactive dashboard for transaction insights.
 - Added KPIs, state-wise comparisons, and visual analytics.
@@ -227,7 +253,8 @@ I enjoy building practical applications with **Python, SQL, Power BI, Streamlit,
 
 ### Uber Fare Prediction
 
-**Key Skills:** Machine Learning, Streamlit, AWS
+**Key Skills:** Machine Learning, Streamlit, AWS  
+**Repository:** Coming soon
 
 - Built a machine learning model to predict Uber fare prices.
 - Integrated the model into a Streamlit web application.
@@ -245,6 +272,12 @@ I enjoy building practical applications with **Python, SQL, Power BI, Streamlit,
 | Matplotlib | Research plots and model performance graphs |
 | Seaborn | Statistical charts, correlation heatmaps, EDA visuals |
 | Excel / Office | Reports, tables, academic documentation, business documentation |
+
+---
+
+## Publications
+
+- Coming soon: Research work in AI, healthcare, privacy-preserving systems, and applied machine learning.
 
 ---
 
