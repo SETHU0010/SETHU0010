@@ -1,188 +1,382 @@
 <!-- GitHub Profile README for Sethumadhavan V -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,40:00C9FF,100:92FE9D&height=220&section=header&text=Sethumadhavan%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Healthcare%20AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Clinical%20Prediction&descAlignY=56&descSize=17" alt="Sethumadhavan V — Healthcare AI researcher" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Sethumadhavan%20V&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ph.D.%20Scholar%20%7C%20AI%20Researcher%20%7C%20Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=56&descSize=18" alt="Sethumadhavan V profile header" />
+</p>
+
+<h1 align="center">Hi, I'm Sethumadhavan V</h1>
+
+<h3 align="center">
+  Ph.D. Scholar | Teaching-cum-Research Assistant | AI & Data Science Researcher | Python Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Ph.D.+Scholar+in+Computer+Science;Teaching-cum-Research+Assistant+at+VIT;AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analytics+%7C+Power+BI+%7C+Python;Researcher+%7C+Mentor+%7C+Lifelong+Learner" alt="Typing animation showing research and development interests" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ph.D._Scholar-00C9FF?style=for-the-badge&labelColor=0A1929" alt="Ph.D. Scholar" />
-  <img src="https://img.shields.io/badge/VIT_Vellore-4FD1C5?style=for-the-badge&labelColor=0A1929" alt="VIT Vellore" />
-  <img src="https://img.shields.io/badge/Healthcare_AI-92FE9D?style=for-the-badge&labelColor=0A1929" alt="Healthcare AI" />
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sethumadhavanvelu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SETHU0010">
+    <img src="https://img.shields.io/badge/GitHub-SETHU0010-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/YOUR-ORCID-ID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/sethumadhavan-v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sethumadhavanvelu2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SETHU0010&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+---
 
-## <img src="https://img.shields.io/badge/-01-00C9FF?style=flat-square&labelColor=0A1929" alt="" /> &nbsp;About
+## Quick Snapshot
 
-I'm a Ph.D. scholar and Teaching-cum-Research Assistant at **Vellore Institute of Technology, Vellore**, working on **machine learning and deep learning for clinical prediction** — currently focused on early kidney disease detection from routine clinical biomarkers.
+- Researching applied AI, healthcare machine learning, and privacy-preserving systems.
+- Building Python, Streamlit, Flask, FastAPI, SQL, Power BI, and AWS-supported solutions.
+- Mentoring students in programming, data analytics, project development, and research writing.
 
-My interest sits where a model stops being a benchmark result and becomes something a hospital can actually deploy. That's the point where interpretability, data quality, and compute cost start to matter more than another point of AUC.
+---
 
-Alongside research, I teach lab sections and mentor students in Python, data analytics, and project development.
+## About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+I am **Sethumadhavan V**, a **Ph.D. Scholar in Computer Science Engineering and Information Systems** and a **Teaching-cum-Research Assistant** at **Vellore Institute of Technology (VIT), Vellore**.
 
-## <img src="https://img.shields.io/badge/-02-00C9FF?style=flat-square&labelColor=0A1929" alt="" /> &nbsp;Current Research
+My work focuses on **artificial intelligence, data science, machine learning, deep learning, data visualization, software engineering, business analytics, cloud engineering, real-time analytics, and automation in education**.
 
-> [!NOTE]
-> **In progress —** a systematic review of ML/DL methods for kidney disease prediction, surveying 70+ studies across classical ML and deep architectures. Targeting Q1 journal submission.
+I enjoy building practical applications with **Python, SQL, Power BI, Streamlit, Flask, FastAPI, MySQL, AWS, and modern AI tools**. I am also passionate about **student mentoring, academic research, publications, and AI-based solutions for real-world problems**.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+---
 
-**🔬 Systematic Review**
+## Current Focus
 
-Comparing SVM, Random Forest, XGBoost against CNN, LSTM, and Vision Transformer approaches on clinical biomarker data.
+- Machine learning and deep learning for healthcare and applied research
+- Data analytics and visualization-based decision-support systems
+- Privacy-preserving AI and secure data sharing
+- AI automation tools for education and enterprise workflows
+- Research writing, academic publication, and student mentoring
 
-</td>
-<td width="33%" valign="top">
+---
 
-**⚙️ Deployment Feasibility**
+## Career Interests
 
-Characterising how GPU, memory, and training-time requirements gate real-world adoption of deep models in hospitals.
+| Area | Focus |
+|---|---|
+| Artificial Intelligence | Applied AI, generative AI, intelligent systems |
+| Machine Learning | Classification, prediction, model evaluation |
+| Deep Learning | Computer vision, healthcare AI, neural networks |
+| Data Science | EDA, feature engineering, analytics pipelines |
+| Data Visualization | Power BI, Plotly, Streamlit dashboards |
+| Software Engineering | Python backends, APIs, automation tools |
+| Academic Research | Publication, research writing, mentoring |
 
-</td>
-<td width="33%" valign="top">
+---
 
-**🔐 Privacy-Preserving Systems**
+## Skills & Tools
 
-Encryption and access-control designs for sharing personal health records without exposing patient data.
+### Programming Languages
 
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+### Data Science & Analytics
 
-## <img src="https://img.shields.io/badge/-03-00C9FF?style=flat-square&labelColor=0A1929" alt="" /> &nbsp;Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-009688?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Business Analytics" />
+</p>
 
-<table>
-<tr>
-<td><b>Core</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-0A1929?style=flat-square&logo=python&logoColor=00C9FF" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0A1929?style=flat-square&logo=postgresql&logoColor=00C9FF" alt="SQL" />
-<img src="https://img.shields.io/badge/MySQL-0A1929?style=flat-square&logo=mysql&logoColor=00C9FF" alt="MySQL" />
-</td>
-</tr>
-<tr>
-<td><b>ML / DL</b></td>
-<td>
-<img src="https://img.shields.io/badge/PyTorch-0A1929?style=flat-square&logo=pytorch&logoColor=4FD1C5" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-0A1929?style=flat-square&logo=scikitlearn&logoColor=4FD1C5" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-0A1929?style=flat-square&logo=pandas&logoColor=4FD1C5" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-0A1929?style=flat-square&logo=numpy&logoColor=4FD1C5" alt="NumPy" />
-<img src="https://img.shields.io/badge/Hugging_Face-0A1929?style=flat-square&logo=huggingface&logoColor=4FD1C5" alt="Hugging Face" />
-</td>
-</tr>
-<tr>
-<td><b>Apps & APIs</b></td>
-<td>
-<img src="https://img.shields.io/badge/Streamlit-0A1929?style=flat-square&logo=streamlit&logoColor=92FE9D" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Flask-0A1929?style=flat-square&logo=flask&logoColor=92FE9D" alt="Flask" />
-<img src="https://img.shields.io/badge/FastAPI-0A1929?style=flat-square&logo=fastapi&logoColor=92FE9D" alt="FastAPI" />
-</td>
-</tr>
-<tr>
-<td><b>Analysis</b></td>
-<td>
-<img src="https://img.shields.io/badge/Power_BI-0A1929?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-<img src="https://img.shields.io/badge/Plotly-0A1929?style=flat-square&logo=plotly&logoColor=F2C811" alt="Plotly" />
-<img src="https://img.shields.io/badge/AWS-0A1929?style=flat-square&logo=amazonaws&logoColor=F2C811" alt="AWS" />
-</td>
-</tr>
-</table>
+### Libraries & Frameworks
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-## <img src="https://img.shields.io/badge/-04-00C9FF?style=flat-square&labelColor=0A1929" alt="" /> &nbsp;Projects
+### Tools & Platforms
 
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">What it does</th>
-<th align="left">Stack</th>
-</tr>
-<tr>
-<td><a href="https://github.com/SETHU0010/Automated-Resume-Parsing-and-Skill-Analysis-System"><b>Resume Parsing & Skill Analysis</b></a></td>
-<td>Ranks resumes against a job description using cosine similarity over extracted skills; handles PDF/DOCX ingestion end to end</td>
-<td><img src="https://img.shields.io/badge/-Flask-0A1929?style=flat-square&logoColor=white" alt="" /> <img src="https://img.shields.io/badge/-Gemini_API-0A1929?style=flat-square" alt="" /> <img src="https://img.shields.io/badge/-MySQL-0A1929?style=flat-square" alt="" /></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SETHU0010/GenAI_Use_Case_Generation_System"><b>GenAI Use Case Generation</b></a></td>
-<td>Generates structured, domain-specific AI use cases from a short business brief</td>
-<td><img src="https://img.shields.io/badge/-Python-0A1929?style=flat-square" alt="" /> <img src="https://img.shields.io/badge/-LLM_APIs-0A1929?style=flat-square" alt="" /></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SETHU0010/Loan-Risk-Assessment-Using-Machine-Learning-and-Streamlit"><b>Loan Risk Assessment</b></a></td>
-<td>Predicts default risk from applicant features, with an interactive scoring interface</td>
-<td><img src="https://img.shields.io/badge/-scikit--learn-0A1929?style=flat-square" alt="" /> <img src="https://img.shields.io/badge/-Streamlit-0A1929?style=flat-square" alt="" /></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SETHU0010/Water_Safety_Classification_App"><b>Water Safety Classification</b></a></td>
-<td>Classifies water potability from physicochemical measurements</td>
-<td><img src="https://img.shields.io/badge/-scikit--learn-0A1929?style=flat-square" alt="" /> <img src="https://img.shields.io/badge/-Streamlit-0A1929?style=flat-square" alt="" /></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SETHU0010/YouTube_Data_Harvesting_and_Warehousing_using_SQL_and_Streamlit"><b>YouTube Data Warehousing</b></a></td>
-<td>Harvests channel data via API, warehouses it in SQL, exposes it through a query dashboard</td>
-<td><img src="https://img.shields.io/badge/-SQL-0A1929?style=flat-square" alt="" /> <img src="https://img.shields.io/badge/-Streamlit-0A1929?style=flat-square" alt="" /></td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+</p>
 
-> [!TIP]
-> Replace each description with a measurable outcome where you have one — accuracy, F1, records processed, time saved. Numbers do more work than verbs.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+## Research & Teaching Interests
 
-## <img src="https://img.shields.io/badge/-05-00C9FF?style=flat-square&labelColor=0A1929" alt="" /> &nbsp;Experience
+| Research | Development | Teaching |
+|---|---|---|
+| Artificial Intelligence | Python applications | Programming labs |
+| Machine Learning | APIs and automation | Data analytics training |
+| Deep Learning | Dashboards and ML demos | Student mentoring |
+| Healthcare AI | Secure data systems | Project guidance |
+| Privacy-preserving AI | Cloud-supported apps | Research writing |
 
-<table>
-<tr>
-<td width="30%"><b>Teaching-cum-Research Assistant</b><br /><sub>VIT Vellore</sub><br /><img src="https://img.shields.io/badge/Aug_2025_–_Present-92FE9D?style=flat-square&labelColor=0A1929" alt="Aug 2025 to present" /></td>
-<td>Run lab sessions and assessments for UG/PG courses; mentor students in Python, analytics, and project development alongside doctoral research.</td>
-</tr>
-<tr>
-<td><b>Backend Developer (Python), Intern</b><br /><sub>Mavdero Technologies</sub><br /><img src="https://img.shields.io/badge/Sep_2024_–_Jul_2025-4FD1C5?style=flat-square&labelColor=0A1929" alt="Sep 2024 to Jul 2025" /></td>
-<td>Built and deployed AI-driven automation tools for enterprise workflows; developed APIs and applied ML to live datasets.</td>
-</tr>
-<tr>
-<td><b>Trainer, Data Analytics</b><br /><sub>GUVI Geek Network · Naan Mudhalvan</sub><br /><img src="https://img.shields.io/badge/Feb_2025_–_May_2025-4FD1C5?style=flat-square&labelColor=0A1929" alt="Feb 2025 to May 2025" /></td>
-<td>Delivered hands-on Python, SQL, and Power BI training; guided industry-oriented analytics projects.</td>
-</tr>
-</table>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+## Education
 
-## <img src="https://img.shields.io/badge/-06-00C9FF?style=flat-square&labelColor=0A1929" alt="" /> &nbsp;Education
+### Doctor of Philosophy - Computer Science Engineering and Information Systems
 
-**Ph.D., Computer Science Engineering & Information Systems** — VIT Vellore · *2025 – Present*
+**Vellore Institute of Technology, Vellore**  
+**Jul 2025 - Present**
 
-**M.Tech Software Engineering (Integrated)** — VIT Vellore · *2019 – 2024* · CGPA 7.65
+### M.Tech Software Engineering - Integrated
 
-**Certified Programming Professional & Master Data Science** — IIT Madras via GUVI · *2024*
+**Vellore Institute of Technology, Vellore**  
+**Jul 2019 - May 2024**  
+**CGPA:** 7.65
 
-<sub>Also certified in Data Science Mathematics (Duke University) and Training of Trainers (NPTEL SWAYAM).</sub>
+### IITM Certified Programming Professional and Master Data Science
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header" width="100%" alt="" />
+**GUVI - IIT Madras via GUVI Platform**  
+**Feb 2024 - Sep 2024**
+
+---
+
+## Professional Experience
+
+### Teaching-cum-Research Assistant
+
+**Vellore Institute of Technology (VIT)**  
+**Aug 2025 - Present**
+
+- Conduct laboratory sessions and guide students through programming and technical problem-solving.
+- Assist with tutorials, evaluations, and continuous assessment activities for UG and PG courses.
+- Support academic and research activities while pursuing doctoral research.
+- Mentor students in Python programming, data analytics, and project development.
+
+### Backend Developer in Python - Intern
+
+**Mavdero Technologies**  
+**Sep 2024 - Jul 2025**
+
+- Developed and deployed AI-based automation tools for enterprise workflows.
+- Applied machine learning techniques to real-time datasets to improve decision-making.
+- Supported Python backend workflows, API development, and data-driven applications.
+
+### Trainer - Data Analytics in Process Industries
+
+**GUVI Geek Network Pvt. Ltd. | Naan Mudhalvan Initiative**  
+**Feb 2025 - May 2025**
+
+- Delivered hands-on training in Python, SQL, and Power BI.
+- Guided students in developing industry-oriented data analytics projects.
+- Helped learners understand EDA, visualization, and applied analytics workflows.
+
+---
+
+## Selected Work
+
+| Project | Focus | Links |
+|---|---|---|
+| Automated Resume Parsing and Skill Analysis System | NLP, resume ranking, Gemini API, Flask, MySQL | [Repository](https://github.com/SETHU0010/Automated-Resume-Parsing-and-Skill-Analysis-System) |
+| Secure Data Sharing of Personal Health Records | AES encryption, MySQL, secure access control | Demo/Repository coming soon |
+| YouTube Data Harvesting and Warehousing | SQL, Streamlit, data processing | [Repository](https://github.com/SETHU0010/YouTube_Data_Harvesting_and_Warehousing_using_SQL_and_Streamlit) |
+| Water Safety Classification App | Machine learning, classification, Streamlit | [Repository](https://github.com/SETHU0010/Water_Safety_Classification_App) |
+| Loan Risk Assessment | Machine learning, risk prediction, Streamlit | [Repository](https://github.com/SETHU0010/Loan-Risk-Assessment-Using-Machine-Learning-and-Streamlit) |
+| GenAI Use Case Generation System | Generative AI, use-case ideation, automation | [Repository](https://github.com/SETHU0010/GenAI_Use_Case_Generation_System) |
+
+---
+
+## Featured Projects
+
+### Automated Resume Parsing and Skill Analysis System
+
+**Key Skills:** Python, Flask, Cosine Similarity, PyPDF2, HTML, CSS, Gemini API, MySQL  
+**Repository:** [Automated Resume Parsing and Skill Analysis System](https://github.com/SETHU0010/Automated-Resume-Parsing-and-Skill-Analysis-System)
+
+- Developed a web application that matches resumes with job descriptions using NLP techniques.
+- Implemented secure file upload and text extraction from PDF and DOCX resumes.
+- Extracted and analyzed skills, experience, and education using regex and AI-based methods.
+- Integrated the Gemini API for intelligent resume insights and ranking.
+
+### Secure Data Sharing of Personal Health Records in SQL Using AES Algorithm
+
+**Key Skills:** HTML, CSS, MySQL, AES  
+**Repository:** Coming soon
+
+- Designed a secure system for managing personal health records with AES encryption.
+- Implemented encryption and decryption workflows to protect sensitive health data.
+- Stored encrypted records in a MySQL database.
+- Built a web interface with authentication and role-based access control.
+
+### Privacy-Preserving Data Security Model
+
+**Key Skills:** AES, Cloud Security, Secure Access Control  
+**Repository:** Coming soon
+
+- Built a secure data access model using cryptographic techniques.
+- Applied privacy, confidentiality, and secure cloud access concepts.
+- Focused on protecting sensitive data during storage and controlled access.
+
+### YouTube Data Harvesting and Warehousing
+
+**Key Skills:** SQL, Streamlit, Data Processing  
+**Repository:** [YouTube Data Harvesting and Warehousing](https://github.com/SETHU0010/YouTube_Data_Harvesting_and_Warehousing_using_SQL_and_Streamlit)
+
+- Extracted and processed YouTube channel data.
+- Stored structured data in SQL databases.
+- Built interactive visualizations with Streamlit.
+
+### PhonePe Pulse Data Visualization
+
+**Key Skills:** Streamlit, Plotly, Data Visualization  
+**Repository:** Coming soon
+
+- Created an interactive dashboard for transaction insights.
+- Added KPIs, state-wise comparisons, and visual analytics.
+- Improved exploration through charts and filters.
+
+### Uber Fare Prediction
+
+**Key Skills:** Machine Learning, Streamlit, AWS  
+**Repository:** Coming soon
+
+- Built a machine learning model to predict Uber fare prices.
+- Integrated the model into a Streamlit web application.
+- Used AWS for deployment and storage support.
+
+---
+
+## Dashboard & Visualization Work
+
+| Tool | What I Build |
+|---|---|
+| Power BI | Business dashboards, KPI reports, interactive analytics |
+| Streamlit | Web apps, ML demos, analytics dashboards |
+| Plotly | Interactive charts, maps, comparison plots |
+| Matplotlib | Research plots and model performance graphs |
+| Seaborn | Statistical charts, correlation heatmaps, EDA visuals |
+| Excel / Office | Reports, tables, academic documentation, business documentation |
+
+---
+
+## Publications
+
+- Coming soon: Research work in AI, healthcare, privacy-preserving systems, and applied machine learning.
+
+---
+
+## Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-CareerNinja%20%7C%20LearnTube-blue?style=for-the-badge" alt="SQL certification" />
+  <img src="https://img.shields.io/badge/Power%20BI-GUVI-yellow?style=for-the-badge" alt="Power BI certification" />
+  <img src="https://img.shields.io/badge/Generative%20AI-GUVI-purple?style=for-the-badge" alt="Generative AI certification" />
+  <img src="https://img.shields.io/badge/ChatGPT-GUVI-green?style=for-the-badge" alt="ChatGPT certification" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Math%20Skills-Duke%20University-2E7D32?style=for-the-badge" alt="Data Science Math Skills certification from Duke University" />
+  <img src="https://img.shields.io/badge/Real--Time%20Systems-EIT%20Digital-orange?style=for-the-badge" alt="Real-Time Systems certification" />
+  <img src="https://img.shields.io/badge/Training%20of%20Trainers-NPTEL%20SWAYAM-red?style=for-the-badge" alt="Training of Trainers certification from NPTEL SWAYAM" />
+  <img src="https://img.shields.io/badge/Financial%20Literacy-UNICEF-lightblue?style=for-the-badge" alt="Financial Literacy certification from UNICEF" />
+</p>
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=C9D1D9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&hide_border=true&border_radius=12&title_color=00C9FF&icon_color=4FD1C5" height="165" alt="GitHub statistics for SETHU0010" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=SETHU0010&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170" alt="GitHub statistics for SETHU0010" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SETHU0010&theme=radical&hide_border=true&border_radius=15" height="170" alt="GitHub streak statistics for SETHU0010" />
 </p>
 
 <p align="center">
-  <i>Open to research collaboration in healthcare AI, applied ML, and privacy-preserving systems.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SETHU0010&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180" alt="Top programming languages for SETHU0010" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,60:00C9FF,100:0A1929&height=110&section=footer" width="100%" alt="" />
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SETHU0010&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph for SETHU0010" />
+</p>
+
+---
+
+## Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Tamil-Native-FF9933?style=for-the-badge" alt="Tamil - Native" />
+  <img src="https://img.shields.io/badge/English-Professional-0A66C2?style=for-the-badge" alt="English - Professional" />
+</p>
+
+---
+
+## Interests
+
+- Reading AI and data science articles
+- Exploring new technologies
+- Participating in hackathons
+- Playing chess
+- Outdoor activities
+- Mentoring students
+- Writing research papers and technical content
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="mailto:sethumadhavanvelu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sethumadhavanvelu2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sethumadhavan V" />
+  </a>
+  <a href="https://www.linkedin.com/in/sethumadhavan-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sethumadhavan%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Sethumadhavan V" />
+  </a>
+  <a href="https://github.com/SETHU0010">
+    <img src="https://img.shields.io/badge/GitHub-SETHU0010-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile of SETHU0010" />
+  </a>
+</p>
+
+---
+
+## Profile Summary
+
+<p align="center">
+  <b>
+    Researcher, developer, trainer, and educator focused on Python, data science,
+    machine learning, deep learning, generative AI, data visualization, teaching,
+    and academic research.
+  </b>
+</p>
+
+<p align="center">
+  <b>
+    Open to collaboration in research projects, analytics applications,
+    AI-based systems, student mentoring, and educational initiatives.
+  </b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" alt="Footer wave" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile!</b>
+</p>
